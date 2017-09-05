@@ -1,6 +1,7 @@
 {
     "name": "chenshuox/beauty",
     "type": "library",
+    "version": "1.0.0",
     "description": "Beauty PHP framework",
     "keywords": ["framework","php","api","router"],
     "homepage": "https://chenshuo.net",
