@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Beauty": "src/"
+            "Beauty\\": "src/"
         }
     },
     "prefer-stable": true
