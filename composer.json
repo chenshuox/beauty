@@ -1,0 +1,26 @@
+{
+    "name": "chenshuox/beauty",
+    "type": "library",
+    "description": "Beauty PHP framework",
+    "keywords": ["framework","php","api","router"],
+    "homepage": "https://chenshuo.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "陈朔",
+            "email": "chenshuox@12.com",
+            "homepage": "https://chenshuo.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Beauty\\": "beauty"
+        }
+    }
+}
