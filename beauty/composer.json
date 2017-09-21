@@ -1,5 +1,5 @@
 {
-    "name": "chenshuox/beauty",
+    "name": "supkit/beauty",
     "type": "library",
     "version": "1.0.0",
     "description": "Beauty PHP framework",
@@ -9,7 +9,7 @@
     "authors": [
         {
             "name": "陈朔",
-            "email": "chenshuox@12.com",
+            "email": "chenshuox@126.com",
             "homepage": "https://chenshuo.net"
         }
     ],
